@@ -7,7 +7,6 @@ datasets
 *.so
 .DS_Store
 Untitled*
-data_analysis.ipynb
 rainfall_counties.csv.gz
 # Distribution / packaging
 .Python
