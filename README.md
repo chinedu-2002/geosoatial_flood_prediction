@@ -78,7 +78,9 @@ Among Florida counties, to what extent can environmental features such as rainfa
 
 * **Kossi Sessou** ([GitHub](https://github.com/KossiSessou))
 * **Guriqbal Manyani**(([GitHub](https://github.com/gmanyani527))
-* **\[Team Member 3 Name]**
-* **\[Team Member 4 Name]**
+* **Xinshu Yi** ([GitHub](https://github.com/Yi66tech))
+* **Youdahe Asfaw** ([GitHub](https://github.com/Youdahe123))
+* **Emmanuel Enenta** ([GitHub](https://github.com/chinedu-2002))
+
 
 ---
